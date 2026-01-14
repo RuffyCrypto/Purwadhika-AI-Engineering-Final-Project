@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+openai>=1.0.0
+qdrant-client
+python-dotenv
+qdrant-client
+pandas
